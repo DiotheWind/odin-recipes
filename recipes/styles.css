@@ -1,13 +1,16 @@
 h1 {
-    font-family: "Brush Script MT", arial, sans-serif;
     color: orange;
     text-align: center;
     font-size: 50px;
 }
 
 h3 {
-    font-family: "Brush Script MT", arial, sans-serif;
     font-size: 25px;
+}
+
+h1,
+h3 {
+    font-family: "Brush Script MT", arial, sans-serif;
 }
 
 .change-font-style {
