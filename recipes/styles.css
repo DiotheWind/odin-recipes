@@ -2,3 +2,11 @@ h1 {
     font-family: "Brush Script MT", arial, sans-serif;
     color: red;
 }
+
+img {
+    width: 500px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
