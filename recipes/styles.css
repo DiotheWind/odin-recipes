@@ -13,6 +13,7 @@ h3 {
 .change-font-style {
     font-family: Verdana, 'Times New Roman', Times, serif;
 }
+
 img {
     width: 500px;
     height: auto;
@@ -23,4 +24,8 @@ img {
 
 .change-bg-color {
     background-color: orange;
+}
+
+.change-font-weight {
+    font-weight: 600;
 }
