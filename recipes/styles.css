@@ -5,6 +5,14 @@ h1 {
     font-size: 50px;
 }
 
+h3 {
+    font-family: "Brush Script MT", arial, sans-serif;
+    font-size: 25px;
+}
+
+.change-font-style {
+    font-family: Verdana, 'Times New Roman', Times, serif;
+}
 img {
     width: 500px;
     height: auto;
