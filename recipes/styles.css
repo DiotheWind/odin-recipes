@@ -1,6 +1,6 @@
 h1 {
     font-family: "Brush Script MT", arial, sans-serif;
-    color: red;
+    color: orange;
     text-align: center;
     font-size: 50px;
 }
@@ -11,4 +11,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+}
+
+.change-bg-color {
+    background-color: orange;
 }
